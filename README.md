@@ -1,4 +1,4 @@
-# snake_reinforcement_learning
+# backgammon_reinforcement_learning
 
 hi everybody
 
